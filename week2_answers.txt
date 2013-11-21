@@ -1,2 +1,8 @@
 # Please put answers for the week2 stand alone questions here
-# Name:
+# Name: Steve Blank
+
+Come up with three web apps (of similar size/complexity) that you could build.
+	1) minted. - A live stock feed with current news, prices, historical charts, portfolio tracking
+	2) A customized rss-feed (stockrss - finance, or a general one that people can tag their interests and it will pull in relevant articles.)
+	3) Social media / website aggregator
+	4) A simple to-do list
